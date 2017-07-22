@@ -1,0 +1,19 @@
+1:锛熺殑涓暟
+2:锛熷悗闈㈢殑鈥滐級鈥�
+3锛歡etsql涓殑鈥� 鈥�
+4:sql灏忓啓
+5:rst.getString("uType") utype
+6:userList.add(user);
+7:UPDATE USER SET ID=?,PHONE=?,UNAME=?,UTYPE =?   where鍝噷鍘讳簡
+8:姣忎釜琛ㄥ姞time
+
+add use pk,time,status
+select status
+
+select *
+update ?geshu
+select "'"
+
+
+be in common used
+modify dao
